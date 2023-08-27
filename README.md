@@ -3,6 +3,9 @@
 <h3 align="center"> A Learner. <img align="MIDDLE" alt="coding" width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnYR_BMKEBxRzqAQdO7Ygi43O8_0OJ8icvtqzF4gp2_kuxWMJPeY774rfSqCG4_DTjvk&usqp=CAU">
 Data Science Enthusiast Completed Masters in Applied Statistics.</h3>
 
+A learner, Searching data-driven Opportunity as Data Scientist/Data Analyst.
+Aim to Obtain creative & challenging position in organization where i can utilize my skills ,increase my knowledge .
+
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssiddheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="ssiddheshwari" /> </p>
