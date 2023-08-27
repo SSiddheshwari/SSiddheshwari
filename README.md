@@ -1,18 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Siddheshwari</h1>
 <h3 align="center"> A Learner. <img align="MIDDLE" alt="coding" width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnYR_BMKEBxRzqAQdO7Ygi43O8_0OJ8icvtqzF4gp2_kuxWMJPeY774rfSqCG4_DTjvk&usqp=CAU">
-Data Science Enthusiast pursuing Masters in Statistics.</h3>
+Data Science Enthusiast Completed Masters in Applied Statistics.</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssiddheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="ssiddheshwari" /> </p>
 
-- 🌱 I’m currently learning **Courses.**
-
+- 🌱 I’m currently learning **Statistics,  Statistics tools & Related Courses.**
+- 👀 I’m interested in the field of **Data Analytics, Data Science and Machine Learning**
 - 👨‍💻 All of my projects are available at [https://github.com/SSiddheshwari](https://github.com/SSiddheshwari)
 
 - 💬 Ask me about **Machine Learning, Statistics.**
-
+  
+- 💞️ I’m looking to collaborate **Data Science, Machine Learning, Data Analytics Projects.**
+  
 - 📫 How to reach me **https://www.linkedin.com/in/siddheshwari-sapra/**
 
 <h3 align="left">Connect with me:</h3>
